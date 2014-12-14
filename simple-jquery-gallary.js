@@ -1,7 +1,7 @@
-/**
+/** 
 Simple jQuery Gallery v1.0 
-(c) 2014 Faraz Kelhini. http://eloux.com
-License: 
+MIT License 
+Faraz Kelhini http://eloux.com 
 **/
 (function($){
 	$(function() {
